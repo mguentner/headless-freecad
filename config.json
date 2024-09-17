@@ -1,0 +1,8 @@
+{
+    "root_obj": "Assembly",
+    "output_file": "assembly.stl",
+    "variables": {
+        "radius_sphere": 30,
+        "size_cube": 10
+    }
+}
