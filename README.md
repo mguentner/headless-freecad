@@ -10,7 +10,7 @@ Output:
 # Usage
 
 ```
-FreeCADCmd -c main.py --pass test.FCStd config.json
+FreeCADCmd -c build.py --pass test.FCStd config.json output.stl
 ```
 
 # Copyright & License
